@@ -1,0 +1,6 @@
+{
+  "name": "Mestres do Perímetro e da Área - 4º Ano",
+  "description": "Jogo educativo e interativo com 10 desafios de cálculo de área e perímetro para alunos do 4º ano do Ensino Fundamental.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
